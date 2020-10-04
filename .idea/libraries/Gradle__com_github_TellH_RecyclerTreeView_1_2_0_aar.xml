@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.TellH:RecyclerTreeView:1.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebf7d18dcf1bbee1b8d0321032d964c7/jetified-RecyclerTreeView-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebf7d18dcf1bbee1b8d0321032d964c7/jetified-RecyclerTreeView-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebf7d18dcf1bbee1b8d0321032d964c7/jetified-RecyclerTreeView-1.2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.TellH/RecyclerTreeView/1.2.0/80331b340bbde697e5cbf349cdbf08f370a030ff/RecyclerTreeView-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
